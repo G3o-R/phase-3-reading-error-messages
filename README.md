@@ -149,3 +149,5 @@ Use the error messages to guide your work:
 
 Fix the errors in each of the files in `lib/`. Then confirm the fix by running
 `learn test` again.
+
+https://github.com/G3o-R/phase-3-reading-error-messages
